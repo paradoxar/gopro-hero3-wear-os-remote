@@ -6,9 +6,7 @@ This app was created to control a GoPro HERO3 from a Samsung Galaxy Watch withou
 
 ## Project Background
 
-I built this project after mounting a GoPro HERO3 camera on a 2026 Yamaha WaveRunner FX Cruiser HO. The original plan was to mount a physical GoPro remote on the handlebars, but that would have required drilling holes into the new WaveRunner.
-
-Instead, because the rider already wears a Samsung Galaxy Watch, this app turns the watch into a practical GoPro remote.
+I built this project to be able to control a GoPro HERO3 Silver from a Samsung Galaxy Watch without the need to use the original Wi-Fi GoPro remote.
 
 The result is a simple standalone Wear OS app that can:
 
@@ -239,8 +237,6 @@ Before publishing your own fork or copy of this project, make sure you do not up
 
 * Your real GoPro Wi-Fi password
 * Your real Wi-Fi SSID
-* HAR capture files
-* Reqable capture files
 * Android Studio build folders
 * `.gradle`
 * `.idea`
@@ -255,12 +251,11 @@ Use placeholders instead of personal values.
 
 This project is provided as a community example for older GoPro HERO3 cameras.
 
-Use it at your own risk. Always test the app in a safe environment before using it while riding, boating, driving, or operating equipment.
+Use it at your own risk. Always test the app in a safe environment before using it while riding, boating, swimming, or operating equipment.
 
 This project is not affiliated with, sponsored by, or endorsed by GoPro.
 
 ## License
-
 MIT License
 
 ## Author
