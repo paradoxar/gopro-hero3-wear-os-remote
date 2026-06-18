@@ -1,0 +1,24 @@
+# Gradle / Android build files
+.gradle/
+build/
+*/build/
+
+# Local Android SDK path - do not upload
+local.properties
+
+# Android Studio files
+.idea/
+
+# APK / Android package output
+*.apk
+*.aab
+
+# Signing keys - do not upload
+*.jks
+*.keystore
+
+# Network capture files - do not upload
+*.har
+
+# Logs
+*.log
