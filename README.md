@@ -2,7 +2,7 @@
 
 A standalone Wear OS remote control app for the GoPro HERO3 / HERO3 Silver using the camera's legacy Wi-Fi HTTP API.
 
-This app was created to control a GoPro HERO3 from a Samsung Galaxy Watch without needing a physical GoPro remote mounted to a handlebar, vehicle, or watercraft.
+This app was created to control a GoPro HERO3 from a Samsung Galaxy Watch without needing a physical GoPro remote.
 
 ## Project Background
 
