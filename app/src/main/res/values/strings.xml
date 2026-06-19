@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoPro Remote</string>
+    <string name="app_title">GoPro Hero 3 Remote</string>
+    <string name="btn_power_on_text">Power On</string>
+    <string name="btn_power_off_text">Power Off</string>
+    <string name="btn_start_rec_text">Start Recording</string>
+    <string name="btn_stop_rec_text">Stop Recording</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+  <!--  <string name="app_name">GoPro Remote</string>
+    <string name="button_on">PWR ON</string>
+    <string name="button_off">PWR OFF</string>
+    <string name="button_rec">REC</string>
+    <string name="button_stop">STOP</string>
+-->
+
+    <string name="app_name">GoPro Watch</string>
+    <string name="button_power_on">Pwr On</string>
+    <string name="button_power_off">Pwr Off</string>
+    <string name="button_rec">REC</string>
+    <string name="button_stop">STOP</string>
+    <string name="battery_label">BAT</string>
+</resources>
